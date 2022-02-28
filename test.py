@@ -1,2 +1,3 @@
+import os
+print("这是一个py文件!")
 
-print("这是一个测试文件")
